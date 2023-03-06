@@ -1,2 +1,2 @@
-# hash-regression
+# fuzzgression
 common regression patterns to identify type of function
